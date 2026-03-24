@@ -51,6 +51,13 @@ A deep learning model based on LSTM layers was implemented:
 
 LSTM was chosen due to its effectiveness in handling time-dependent data and avoiding vanishing gradient problems.
 
+ 
+ Model Prediction
+
+The graph below compares actual vs predicted stock prices:
+
+[Stock Prediction](prediction.png) check the image named prediction for the visualization graph plotting of the model.
+
 4. Training
 
 * Loss Function: Mean Squared Error (MSE)
